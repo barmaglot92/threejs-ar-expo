@@ -1,0 +1,16 @@
+{
+  "name": "basic-ar-with-three.js",
+  "version": "0.0.0",
+  "description": "Woooo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^21.0.0",
+    "expo-three": "2.0.2",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-21.0.0.tar.gz",
+    "three": "0.87.1",
+    "three-stl-loader": "^1.0.6"
+  }
+}
